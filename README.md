@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **RPavon24/RPavon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 𝓗𝓮𝓵𝓵𝓸 𝓣𝓱𝓮𝓻𝓮 ( •̀_•́ )👋
+
+## CS@UW-Madison 26' 🎓🦡
+
+***Interests***
+* Web Dev 🖥
+* Mobile Dev 📲
+* Low Level Coding 🤓
