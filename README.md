@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 𝓗𝓮𝓵𝓵𝓸 𝓣𝓱𝓮𝓻𝓮 ( •̀_•́ )👋
+# 𝓗𝓮𝓵𝓵𝓸 𝓣𝓱𝓮𝓻𝓮 ( •̀_•́ ) 👋
 
 ## CS@UW-Madison 26' 🎓🦡
 
 ***Interests***
 * Web Dev 🖥
-* Mobile Dev 📲
-* Low Level Coding 🤓
+* Game Dev
+* Machine Learning
